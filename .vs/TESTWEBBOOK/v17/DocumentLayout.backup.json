@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EA2M B\u1EA2O CLPM\\TESTWEBBOOK\\TESTWEBBOOK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB3DF5-0DF9-4D6F-AF08-03DD57EAB7DA}|TESTWEBBOOK\\TESTWEBBOOK.csproj|d:\\\u0111\u1EA3m b\u1EA3o clpm\\testwebbook\\testwebbook\\testwebbook\\exceldataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB3DF5-0DF9-4D6F-AF08-03DD57EAB7DA}|TESTWEBBOOK\\TESTWEBBOOK.csproj|solutionrelative:testwebbook\\exceldataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB3DF5-0DF9-4D6F-AF08-03DD57EAB7DA}|TESTWEBBOOK\\TESTWEBBOOK.csproj|d:\\\u0111\u1EA3m b\u1EA3o clpm\\testwebbook\\testwebbook\\testwebbook\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB3DF5-0DF9-4D6F-AF08-03DD57EAB7DA}|TESTWEBBOOK\\TESTWEBBOOK.csproj|solutionrelative:testwebbook\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 541,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA2M B\u1EA2O CLPM\\TESTWEBBOOK\\TESTWEBBOOK\\TESTWEBBOOK\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TESTWEBBOOK\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0110\u1EA2M B\u1EA2O CLPM\\TESTWEBBOOK\\TESTWEBBOOK\\TESTWEBBOOK\\UnitTest1.cs",
+              "RelativeToolTip": "TESTWEBBOOK\\UnitTest1.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAOIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:49:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelDataProvider.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA2M B\u1EA2O CLPM\\TESTWEBBOOK\\TESTWEBBOOK\\TESTWEBBOOK\\ExcelDataProvider.cs",
+              "RelativeDocumentMoniker": "TESTWEBBOOK\\ExcelDataProvider.cs",
+              "ToolTip": "D:\\\u0110\u1EA2M B\u1EA2O CLPM\\TESTWEBBOOK\\TESTWEBBOOK\\TESTWEBBOOK\\ExcelDataProvider.cs",
+              "RelativeToolTip": "TESTWEBBOOK\\ExcelDataProvider.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:04:35.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
